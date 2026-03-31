@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aadyatiwari01
 - 👀 I’m interested in Java Development 
-- 🌱 I’m currently learning Advance Java 
+- 🌱 I’m currently learning iOS development  
 - 💞️ I’m looking to collaborate on projects including java and basic frontend 
 - 📫 How to reach me - Linkedin: Aadya Tiwari
                         Gmail: aadyatiwari01@gmail.com
